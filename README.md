@@ -1,6 +1,6 @@
 <!-- @format -->
 
-<h1 align="left">Hey 👋 Welcome my Profile?</h1>
+<h1 align="left">Hey Welcome my Profile 👋</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-🎲 [My Protofolio](https://nyoman-six.vercel.app/)👈Clik
+🎲 [My Protofolio](https://nyoman-six.vercel.app/)👈Click here
 
 <h2 align="left">I code with</h2>
 
