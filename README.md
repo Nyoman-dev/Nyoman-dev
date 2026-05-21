@@ -16,6 +16,23 @@
 
 ###
 
+<div align="center">
+
+<a href="https://nyoman-six.vercel.app/">
+
+<img 
+src="assets/sampul.jpg" 
+alt="portfolio"
+width="800"/>
+
+</a>
+
+<br/>
+<br/>
+
+<b>Click image to open portfolio</b>
+
+</div>
 ![Logo Proyek Saya](src/sampul.jpg)
 
 🎲 [My Protofolio](https://nyoman-six.vercel.app/)👈Click here
