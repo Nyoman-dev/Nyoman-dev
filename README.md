@@ -31,9 +31,9 @@
   </a></td>
 </tr>
 <tr>
-<td>
+<td align="center" >
 <a href="https://nyoman-six.vercel.app/">
-  <img src="assets/sampul.jpg" width="300" alt="preview"/>
+  <img src="assets/sampul.jpg" width="350" alt="preview"/>
 </a>
 <br>
 <a href="https://nyoman-six.vercel.app/">
