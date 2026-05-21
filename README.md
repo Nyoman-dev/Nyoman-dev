@@ -16,10 +16,10 @@
 
 ###
 
-<table widt="45%">
+<table widt="40%">
 
 <tr>
-<td style="">
+<td align="center">
 <a href="mailto:nyomanharun1@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo" />
   </a>
@@ -33,7 +33,7 @@
 <tr>
 <td>
 <a href="https://nyoman-six.vercel.app/">
-  <img src="assets/sampul.jpg" width="500" alt="preview"/>
+  <img src="assets/sampul.jpg" width="400" alt="preview"/>
 </a>
 <br>
 <a href="https://nyoman-six.vercel.app/">
