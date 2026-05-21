@@ -16,7 +16,7 @@
 
 ###
 
-<table widt="50%">
+<table widt="45%">
 
 <tr>
 <td style="">
@@ -32,13 +32,16 @@
 </tr>
 <tr>
 <td>
-
-<a href="https://theodorusclarence.com/">
-  <img src="assets/sampul.jpg" width="500" alt="preview"/>
+<a href="https://nyoman-six.vercel.app/">
+  <img src="assets/sampul.jpg" width="300" alt="preview"/>
 </a>
-
+<br>
+<a href="https://nyoman-six.vercel.app/">
+Also, let's connect! Feel free to dm me for discussion!
+</a>
 </td>
 </tr>
+
 </table>
 
 <!-- 🎲 [My Protofolio](https://nyoman-six.vercel.app/)👈Click here -->
