@@ -16,7 +16,7 @@
 
 ###
 
-<table widt="40%">
+<table widt="30%">
 
 <tr>
 <td align="center">
@@ -33,7 +33,7 @@
 <tr>
 <td>
 <a href="https://nyoman-six.vercel.app/">
-  <img src="assets/sampul.jpg" width="400" alt="preview"/>
+  <img src="assets/sampul.jpg" width="300" alt="preview"/>
 </a>
 <br>
 <a href="https://nyoman-six.vercel.app/">
