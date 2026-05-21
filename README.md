@@ -33,7 +33,7 @@
 <tr>
 <td>
 <a href="https://nyoman-six.vercel.app/">
-  <img src="assets/sampul.jpg" width="300" alt="preview"/>
+  <img src="assets/sampul.jpg" width="500" alt="preview"/>
 </a>
 <br>
 <a href="https://nyoman-six.vercel.app/">
